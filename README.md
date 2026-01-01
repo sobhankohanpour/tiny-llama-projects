@@ -1,4 +1,4 @@
-# Tiny LLaMA Projects
+# Tiny LLM Projects
 
 This repository contains a collection of beginner-friendly projects demonstrating how to build applications with **LLaMA models**, **LlamaIndex**, and **Ollama**.
 
@@ -160,7 +160,7 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```text
-tiny-llama-projects/
+tiny-llm-projects/
 │
 ├── README.md
 ├── requirements.txt
